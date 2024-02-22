@@ -1,40 +1,28 @@
 #import "../brilliant-CV/template.typ": *
 
-#cvSection("Professional Experience")
+#cvSection("Experience")
 
 #cvEntry(
-    title: [Director of Data Science],
-    society: [XYZ Corporation],
-    logo: "../src/logos/xyz_corp.png",
-    date: [2020 - Present],
-    location: [San Francisco, CA],
+    title: [IT & Digitisation Intern],
+    society: [EWF Intertax GmbH Steuerberatungsgesellschaft],
+    date: [06/2022 - 09/2022],
+    location: [Chemnitz, Germany],
     description: list(
-      [Lead a team of data scientists and analysts to develop and implement data-driven strategies, develop predictive models and algorithms to support decision-making across the organization],
-      [Collaborate with executive leadership to identify business opportunities and drive growth, implement best practices for data governance, quality, and security],
+        [Designed and developed software to digitize and organize paper documents, resulting in a 30% increase in inbox processing speed.],
+        [Implemented a new website (www.ewf-intertax.de), including a back-end database storage system and dynamic web pages.],
+        []
     ),
-    tags: ("Tags Example here", "Dataiku", "Snowflake", "SparkSQL")
+    tags: ()
 )
 
 #cvEntry(
-    title: [Data Analyst],
-    society: [ABC Company],
-    logo: "../src/logos/abc_company.png",
-    date: [2017 - 2020],
-    location: [New York, NY],
+    title: [Peer Mentor],
+    society: [University of Manchester],
+    date: [09/2021 - 06/2023],
+    location: [Manchester, UK],
     description: list(
-      [Analyze large datasets using SQL and Python, collaborate with cross-functional teams to identify business insights],
-      [Create data visualizations and dashboards using Tableau, develop and maintain data pipelines using AWS],
-    )
-)
-
-#cvEntry(
-    title: [Data Analysis Intern],
-    society: [PQR Corporation],
-    logo: "../src/logos/pqr_corp.png",
-    date: [Summer 2017],
-    location: [Chicago, IL],
-    description: list(
-      [Assisted with data cleaning, processing, and analysis using Python and Excel, participated in team meetings and contributed to project planning and execution],
-      [Developed data visualizations and reports to communicate insights to stakeholders, collaborated with other interns and team members to complete projects on time and with high quality],
+        [Tutored freshmen in math and computer science concepts],
+        [Assist students with programming exercises and reinforced concepts],
+        []
     )
 )

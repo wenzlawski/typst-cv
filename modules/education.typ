@@ -3,25 +3,23 @@
 #cvSection("Education")
 
 #cvEntry(
-    title: [Master of Data Science],
-    society: [University of California, Los Angeles],
-    date: [2018 - 2020],
-    location: [USA],
-    logo: "../src/logos/ucla.png",
+    title: [Bachelors of Science in Computer Science],
+    society: [University of Manchester],
+    date: [2020 - 2023],
+    location: [Manchester, UK],
     description: list(
-      [Thesis: Predicting Customer Churn in Telecommunications Industry using Machine Learning Algorithms and Network Analysis],
-      [Course: Big Data Systems and Technologies #hBar() Data Mining and Exploration #hBar() Natural Language Processing]
+      [Thesis: Language Models as Tutors: Grading Argument Quality in Student Argumentative Writing],
+        [Course: Software Engineering #hBar() Artificial Intelligence #hBar() Machine Learning #hBar() Data Science #hBar() Algorithms and Data Structures]
     )
 )
 
 #cvEntry(
-    title: [Bachelors of Science in Computer Science],
-    society: [University of California, Los Angeles],
+    title: [Cambridge International A Level Certification],
+    society: [Auckland Grammar School],
     date: [2018 - 2020],
-    location: [USA],
-    logo: "../src/logos/ucla.png",
+    location: [Auckland, New Zealand],
     description: list(
-      [Thesis: Exploring the Use of Machine Learning Algorithms for Predicting Stock Prices: A Comparative Study of Regression and Time-Series Models],
-      [Course: Database Systems #hBar() Computer Networks #hBar() Software Engineering #hBar() Artificial Intelligence]
+        [Mathematics, Physics, Geography, Economics],
+        [Awards: 1st in class Mathematics, National Disk Ultimate Team]
     )
 )

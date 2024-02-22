@@ -1,17 +1,17 @@
 // NOTICE: Copy this file to your root folder.
 
 /* Personal Information */
-#let firstName = "John"
+#let firstName = "Marc"
 
-#let lastName = "Doe"
+#let lastName = "Wenzlawski"
 
 #let personalInfo = (
-  github: "mintyfrankie",
-  phone: "+33 6 12 34 56 78",
-  email: "john.doe@me.org",
-  linkedin: "johndoe",
+  github: "wenzlawski",
+  phone: "+49 151 44955 081",
+  email: "marcwenzlawski@gmail.com",
+  //linkedin: "johndoe",
   //gitlab: "mintyfrankie",
-  //homepage: "jd.me.org",
+  homepage: "wenzlawski.org",
   //orcid: "0000-0000-0000-0000",
   //researchgate: "John-Doe",
   //extraInfo: "",
@@ -43,7 +43,7 @@
 
 #let nonLatinOverwriteInfo = (
   "customFont": "Heiti SC",
-  "firstName": "王道尔",
+  "firstName": "",
   "lastName": "",
   // submit an issue if you think other variables should be in this array
 )
@@ -51,7 +51,7 @@
 /* Layout Setting */
 #let awesomeColor = "skyblue" // Optional: skyblue, red, nephritis, concrete, darknight
 
-#let profilePhoto = "../src/avatar.png" // Leave blank if profil photo is not needed
+#let profilePhoto = "" // Leave blank if profil photo is not needed
 
 #let varLanguage = "" // INFO: value must matches folder suffix; i.e "zh" -> "./modules_zh"
 

@@ -3,16 +3,21 @@
 #cvSection("Skills")
 
 #cvSkill(
-  type: [Languages],
-  info: [English #hBar() French #hBar() Chinese]
+    type: [Languages],
+    info: [German (native) #hBar() English (fluent) #hBar() French (limited)]
 )
 
 #cvSkill(
-  type: [Tech Stack],
-  info: [Tableau #hBar() Python (Pandas/Numpy) #hBar() PostgreSQL]
+    type: [Technology],
+    info: [Python (Pandas/Numpy) #hBar() R (tidyerse) #hBar() Julia #hBar() SQL #hBar() Rust]
 )
 
 #cvSkill(
-  type: [Personal Interests],
-  info: [Swimming #hBar() Cooking #hBar() Reading]
+    type: [Programs],
+    info: [Git, Linux, Docker, Emacs]
+)
+
+#cvSkill(
+    type: [Personal Interests],
+    info: [Rock Climbing #hBar() Literature #hBar() Philosophy #hBar() FOSS #hBar() Art]
 )

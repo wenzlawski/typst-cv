@@ -1,11 +1,9 @@
 #import "brilliant-CV/template.typ": *
 #show: layout
 
-#cvHeader(hasPhoto: true, align: left)
+#cvHeader(hasPhoto: false, align: left)
   #autoImport("education")
   #autoImport("professional")
-  #autoImport("projects")
-  #autoImport("certificates")
-  #autoImport("publications")
+  #autoImport("extracurricular")
   #autoImport("skills")
 #cvFooter()
